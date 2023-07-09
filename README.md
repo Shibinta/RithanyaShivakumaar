@@ -1,4 +1,6 @@
 ### 👋 Hi there, this is Rithanya Shivakumaar!
 
-![](https://komarev.com/ghpvc/?username=RithanyaShivakumaar&color=orange)
+<h3>When I code, I rely on</h3>
+https://img.shields.io/badge/Python-blue
+
 
