@@ -1,4 +1,4 @@
-### 👋 Hi there, this is Rithanya Shivkumaar!
+### 👋 Hi there, this is Rithanya Shivakumaar!
 
-![](https://komarev.com/ghpvc/?username=your_username&color=give_your_color)
+![](https://komarev.com/ghpvc/?username=RithanyaShivakumaar&color=orange)
 
