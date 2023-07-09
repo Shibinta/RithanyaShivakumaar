@@ -1,5 +1,5 @@
 * :wave: Hey there! I'm Rithanya Shivakumaar, a passionate student of Computer and Communication Engineering
-* :chart_with_upwards_trend: I excel in Python and C programming languages and possess a strong troubleshooting ability
+* 💡: I excel in Python and C programming languages and possess a strong troubleshooting ability
 * 🌟: With a strong interest in coding and computer science, as well as communication and signals
 * 🔭 I'm interested in undertaking more real-life hands-on projects to expand my knowledge and gain practical experience.
   
